@@ -1,0 +1,25 @@
+REQUIRED READINGS:
+Programming in Lua (Fourth Edition)
+978-8491450498
+- Roberto Lerusalimschy
+OTHER USEFUL SITES:
+https://www.lua.org/start.html
+- Official Lua page
+https://github.com/kikito/lua_missions
+- Lua Missions (For programming projects)
+https://exercism.org/tracks/lua/exercises
+- Exercism Lua exercises (For projects)
+https://www.youtube.com/watch?v=1srFmjt1Ib0
+- 4 Hour youtube course
+https://www.tutorialspoint.com/lua/index.htm
+- Tutorial spot Lua offering
+https://www.codecademy.com/learn/learn-lua
+- Code Academy Lua offering
+AREA OF INTEREST: (Potential coding projects from here)
+The Advanced Roblox Coding Book
+978-1721400072
+- Heath Haskins
+https://create.roblox.com/docs/reference/engine
+- Roblox Engine API Documentation
+https://create.roblox.com/docs/tutorials
+- Roblox Tutorials

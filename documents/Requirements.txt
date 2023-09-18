@@ -1,0 +1,80 @@
+Grade determined by:
+- Understanding/master of Lua
+- Delivery, quality, and usefulness of Projects
+Chapters and Concepts to be Read / Understood:
+
+Project1
+September 8: Chapters 1-4 (pg 1-38)
+1 Getting Started,
+2 Interlude: The Eight-Queen Puzzle
+3 Numbers
+4 Strings
+September 15: Chapters 5-8 (pg 39 - 74)
+5 Tables
+6 Functions
+7 The External World
+8 Filling Some Gaps
+
+Project2
+September 22: Chapters 9-11 (pg 79-106)
+9 Closures
+10 Pattern matching
+11 Interlude: Most Frequent Words
+September 29: Chapters 12-13 (pg 109-122)
+12 Date and Time
+13 Bits and Bytes
+
+Project3
+October 6: Chapter 14 (pg 125 - 135)
+14 Data Structures
+October 13: Chapter 15 (pg 137 - 156)
+15 Data Files and Serialization
+16 Compilation, Execution, and Errors
+
+Project4
+October 20: Chapters 17-19 (pg 159-182)
+17 Modules and Packages
+18 Iterators and the Generic for
+19 Interlude: Markov Chain Algorithm
+October 27: Chapters 20-21 (pg 185-208)
+20 Metatables and Metamethods
+21 Object-Oriented Programming
+
+Project5
+November 3: Chapters 22-23 (pg 211 - 234)
+22 The Environment
+23 Garbage
+November 10: Chapters 24-25 (pg 237-264)
+24 Coroutines
+25 Reflection
+
+Project6
+November 17: Chapter 26-28 (pg 265-298)
+26 Interlude: Multithreading with Coroutines
+27 An Overview of the C-API
+28 Extending your Application
+November 24: Chapter 29 (pg 301 - 308)
+29 Calling C from Lua
+
+Project7
+December 1: Chapters 30-31 (pg 309-330)
+30 Techniques for writing C Functions
+31 User-Defined Types in C
+December 8: Chapters 32-33 (pg 333-347)
+32 Managing Resources
+33 Threads and States
+
+December 14: Review
+Review of Book of Concepts / Grace Period
+
+PROJECTS:
+A project / code base will be created to (1) track the students progress (Professor will have
+access), and to (2) showcase project work. A project will be turned in at the end of every 2 weeks
+showcasing the learning and mastery of the student on various topics found in the book or located
+elsewhere. Should the later chapters prove extremely difficult (Ex: multi-threading), with
+permission
+from the mentor, the student may instead submit a 2 page double spaced paper explaining their
+learning's. Projects will be reviewed each month with the professor.
+
+
+

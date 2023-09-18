@@ -1,0 +1,9 @@
+A : Understanding of Lua is skilled, Reading demonstrates high level of mastery, Mentor finds
+projects to be delivered on time, of high quality, and worthwhile.
+A- : Understanding of Lua is proficient, Reading demonstrates moderate-high level of mastery,
+Mentor finds projects to be delivered mostly on time, and of moderately-high quality and of
+interest.
+B+: Understanding of Lua is satisfactory, Reading demonstrates moderate level of mastery,
+mentor finds projects to be delivered late, but quality.
+B : Understanding of Lua is mediocre, Reading demonstrates little level of mastery, mentor finds
+projects either nonexistent, or late and alright.
