@@ -1,0 +1,16 @@
+{
+	"People":[
+		{
+			"Name": "Caleb Siebach",
+			"Birthday":"11/11/1997"
+		},
+		{
+			"Name": "Bob Frapples",
+			"Birthday":"10/07/1990"
+		},
+		{
+			"Name": "Squeezle Jenkins",
+			"Birthday":"04/04/1992"
+		}
+	]
+}
